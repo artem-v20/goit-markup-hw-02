@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -12,18 +12,22 @@ a {
   text-decoration: none;
 }
 
-.logo1 {
+.logo-one {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
 }
 
-.logo2 {
+.logo-two {
   color: #2e2f42;
+}
+
+.logo-three {
+  color: #f4f4fd;
 }
 
 .page-nav .link {
@@ -41,6 +45,10 @@ a {
   color: #404bbf;
 }
 
+.main-adress {
+  font-style: normal;
+}
+
 .page-address .link {
   color: #434455;
   font-family: "Roboto", sans-serif;
@@ -55,12 +63,16 @@ a {
   color: #404bbf;
 }
 
+.background-section-one {
+  background-color: #2e2f42;
+}
+
 .main-title {
   color: #ffffff;
   font-size: 56px;
   font-weight: 700;
   text-transform: capitalize;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
 }
@@ -68,6 +80,8 @@ a {
 .button {
   cursor: pointer;
   color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
   font-size: 16px;
   text-transform: capitalize;
   line-height: 1.5;
@@ -80,11 +94,7 @@ a {
   background-color: #404bbf;
 }
 
-.features-title {
-  display: none;
-}
-
-.features-list .features-title-1 {
+.features-list .features-title-one {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -100,17 +110,25 @@ a {
   letter-spacing: 0.02em;
 }
 
+.background-section-three {
+  background-color: #f4f4fd;
+}
+
 .team-title {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   text-transform: capitalize;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
 }
 
-.team-list .team-title-1 {
+.team-list {
+  background-color: #ffffff;
+}
+
+.team-list .team-title-one {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -131,12 +149,12 @@ a {
   font-size: 36px;
   font-weight: 700;
   text-transform: capitalize;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
 }
 
-.portfolio-list .portfolio-title-1 {
+.portfolio-list .portfolio-title-one {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -152,10 +170,14 @@ a {
   letter-spacing: 0.02em;
 }
 
+.footer-background {
+  background-color: #2e2f42;
+}
+
 .footer-text {
   font-size: 16px;
   text-transform: capitalize;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #ffffff;
+  color: #f4f4fd;
 }
