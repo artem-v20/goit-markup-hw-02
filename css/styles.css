@@ -11,3 +11,153 @@ ul {
 a {
   text-decoration: none;
 }
+
+.logo1 {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+}
+
+.logo2 {
+  color: #2e2f42;
+}
+
+.page-nav .link {
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.page-nav .link:hover,
+.page-nav .link:focus {
+  color: #404bbf;
+}
+
+.page-address .link {
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: lowercase;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.page-address .link:hover,
+.page-address .link:focus {
+  color: #404bbf;
+}
+
+.main-title {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.button {
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+}
+
+.features-title {
+  display: none;
+}
+
+.features-list .features-title-1 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.features-list .features-text {
+  font-size: 16px;
+  text-transform: capitalize;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.team-title {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.team-list .team-title-1 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.team-list .team-text {
+  font-size: 16px;
+  text-transform: capitalize;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.portfolio-title {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.portfolio-list .portfolio-title-1 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.portfolio-list .portfolio-text {
+  font-size: 16px;
+  text-transform: capitalize;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.footer-text {
+  font-size: 16px;
+  text-transform: capitalize;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
