@@ -114,6 +114,10 @@ a {
   background-color: #f4f4fd;
 }
 
+.team-list .background-list {
+  background-color: #ffffff;
+}
+
 .team-title {
   color: #2e2f42;
   font-size: 36px;
@@ -124,11 +128,7 @@ a {
   text-align: center;
 }
 
-.team-list {
-  background-color: #ffffff;
-}
-
-.team-list .team-title-one {
+.team-list .team-name {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -180,4 +180,5 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  background-color: #2e2f42;
 }
