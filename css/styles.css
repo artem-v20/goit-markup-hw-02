@@ -1,6 +1,8 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
+  background-color: #fff;
+  line-height: 1.5;
 }
 
 ul {
@@ -33,7 +35,6 @@ a {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -47,7 +48,6 @@ a {
   color: currentColor;
   font-size: 24px;
   text-transform: lowercase;
-  line-height: 1.5;
   letter-spacing: 0.02em;
   font-style: normal;
 }
@@ -75,7 +75,6 @@ a {
   color: #ffffff;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
 }
@@ -95,7 +94,6 @@ a {
 
 .features-list .features-text {
   font-size: 16px;
-  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -126,7 +124,6 @@ a {
 
 .team-list .team-text {
   font-size: 16px;
-  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -149,7 +146,6 @@ a {
 
 .portfolio-list .portfolio-text {
   font-size: 16px;
-  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -159,7 +155,6 @@ a {
 
 .footer-text {
   font-size: 16px;
-  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   background-color: #2e2f42;
